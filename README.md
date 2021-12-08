@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Devesh Singh Negi
+- 👋 Hi, I’m Devesh Singh Negi.
 - 👀 I’m interested in working with web development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Angular and enhancing my skills in Django.
 - 💞️ I’m looking to collaborate on any web development using Django framework
 - 📫 You can connect with me over deveshnegi1998@gmail.com
 
